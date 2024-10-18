@@ -1,0 +1,9 @@
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloTriangle/build/CMakeFiles/HelloTriangle.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloTriangle/build/CMakeFiles/edit_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloTriangle/build/CMakeFiles/rebuild_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloTriangle/build/wrapper/CMakeFiles/wrapper.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloTriangle/build/wrapper/CMakeFiles/edit_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloTriangle/build/wrapper/CMakeFiles/rebuild_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloTriangle/build/application/CMakeFiles/application.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloTriangle/build/application/CMakeFiles/edit_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloTriangle/build/application/CMakeFiles/rebuild_cache.dir

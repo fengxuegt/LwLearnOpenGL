@@ -1,0 +1,12 @@
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloUniform/build/CMakeFiles/HelloUniform.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloUniform/build/CMakeFiles/edit_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloUniform/build/CMakeFiles/rebuild_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloUniform/build/wrapper/CMakeFiles/wrapper.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloUniform/build/wrapper/CMakeFiles/edit_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloUniform/build/wrapper/CMakeFiles/rebuild_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloUniform/build/application/CMakeFiles/application.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloUniform/build/application/CMakeFiles/edit_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloUniform/build/application/CMakeFiles/rebuild_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloUniform/build/glframework/CMakeFiles/glframework.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloUniform/build/glframework/CMakeFiles/edit_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/HelloUniform/build/glframework/CMakeFiles/rebuild_cache.dir
