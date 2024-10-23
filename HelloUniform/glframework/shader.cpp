@@ -106,3 +106,10 @@ void Shader::setFloat(const std::string &attrName, float value) {
     GLuint attrLocation = glGetUniformLocation(pro, attrName.c_str());
     GL_LW_CALL(glUniform1f(attrLocation, value));
 }
+
+void Shader::setVec3(const std::string & attrName, float x, float y, float z) {
+    GLuint attrLocation = glGetUniformLocation(pro, attrName.c_str());
+    GL_LW_CALL(glUniform3f(attrLocation, x, y, z));
+    //glUniform3fv(attrLocation, 1, new float[3]{ x, y, z });
+}
+

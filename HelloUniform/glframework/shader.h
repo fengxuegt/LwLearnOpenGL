@@ -19,6 +19,8 @@ public:
     void begin(); // 开始使用当前Shader
     void end(); // 停止使用当前Shader
     void setFloat(const std::string &attrName, float value);
+    void setVec3(const std::string & attrName, float x, float y, float z);
+    // void setVect3(const std::string &attrName, )
 };
 
 

@@ -83,7 +83,8 @@ void render() {
     shader->begin();
 
     shader->setFloat("time", glfwGetTime());
-    std::cout << glfwGetTime() << std::endl;
+    // std::cout << glfwGetTime() << std::endl;
+    shader->setVec3("uniColor", 0.5f, 0.5f, 0.5f);
 
     GL_LW_CALL(glBindVertexArray(vao));
     glDrawArrays(GL_TRIANGLES, 0, 3);

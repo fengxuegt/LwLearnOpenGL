@@ -1,0 +1,15 @@
+# ninja log v6
+1	6	1729495618024447807	clean	ad90e366ad70d77b
+1	47	1729500297167791273	build.ninja	c777c252f2d21c0a
+5	414	1729495619297167132	glframework/CMakeFiles/glframework.dir/shader.cpp.o	e3001c8af487422f
+5	71	1729495619297581292	CMakeFiles/HelloGLM.dir/src/glad.c.o	fc3de98ef30ec376
+5	393	1729495619297297921	glframework/CMakeFiles/glframework.dir/Texture.cpp.o	be036febdc439307
+5	329	1729495619297024176	application/CMakeFiles/application.dir/application.cpp.o	93d3bde82021e79a
+325	346	1729495619616871549	wrapper/libwrapper.a	b9715fb8ab3777f8
+5	515	1729499533553045424	CMakeFiles/HelloGLM.dir/src/main.cpp.o	2990d1df9be16c57
+4	325	1729495619296757514	wrapper/CMakeFiles/wrapper.dir/check_error.cpp.o	8cfb1ed8ec8898c4
+329	349	1729495619620894817	application/libapplication.a	a7af9faa4d2f7ead
+415	435	1729495619706762169	glframework/libglframework.a	1ed11fc68b83709
+515	558	1729499534063378726	HelloGLM	fc167dbae2649b6c
+7	608	1729500316985678321	CMakeFiles/HelloGLM.dir/src/main.cpp.o	2990d1df9be16c57
+608	655	1729500317586821928	HelloGLM	fc167dbae2649b6c

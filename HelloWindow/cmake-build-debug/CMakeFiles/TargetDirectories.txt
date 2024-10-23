@@ -1,0 +1,9 @@
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGL/HelloWindow/cmake-build-debug/CMakeFiles/HelloWindow.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGL/HelloWindow/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGL/HelloWindow/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGL/HelloWindow/cmake-build-debug/wrapper/CMakeFiles/wrapper.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGL/HelloWindow/cmake-build-debug/wrapper/CMakeFiles/edit_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGL/HelloWindow/cmake-build-debug/wrapper/CMakeFiles/rebuild_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGL/HelloWindow/cmake-build-debug/application/CMakeFiles/application.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGL/HelloWindow/cmake-build-debug/application/CMakeFiles/edit_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGL/HelloWindow/cmake-build-debug/application/CMakeFiles/rebuild_cache.dir
