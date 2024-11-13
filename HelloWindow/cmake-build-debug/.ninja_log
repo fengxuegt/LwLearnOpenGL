@@ -1,8 +1,0 @@
-# ninja log v6
-1	77	1729334943478109410	CMakeFiles/HelloWindow.dir/src/glad.c.o	2a65095d91934f9c
-1	325	1729334943477984616	CMakeFiles/HelloWindow.dir/src/main.cpp.o	e0ff1cc146861380
-1	328	1729334943477526236	wrapper/CMakeFiles/wrapper.dir/check_error.cpp.o	85012438b73aab26
-1	329	1729334943477843698	application/CMakeFiles/application.dir/application.cpp.o	fcc88a2560305023
-328	350	1729334943804501958	wrapper/libwrapper.a	b9715fb8ab3777f8
-329	350	1729334943805445844	application/libapplication.a	a7af9faa4d2f7ead
-350	387	1729334943826700733	HelloWindow	ad26bf2cd761849

@@ -1,0 +1,12 @@
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGLBasic/HelloOrthographicProjection/cmake-build-debug/CMakeFiles/HelloOrthographicProjection.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGLBasic/HelloOrthographicProjection/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGLBasic/HelloOrthographicProjection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGLBasic/HelloOrthographicProjection/cmake-build-debug/wrapper/CMakeFiles/wrapper.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGLBasic/HelloOrthographicProjection/cmake-build-debug/wrapper/CMakeFiles/edit_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGLBasic/HelloOrthographicProjection/cmake-build-debug/wrapper/CMakeFiles/rebuild_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGLBasic/HelloOrthographicProjection/cmake-build-debug/application/CMakeFiles/application.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGLBasic/HelloOrthographicProjection/cmake-build-debug/application/CMakeFiles/edit_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGLBasic/HelloOrthographicProjection/cmake-build-debug/application/CMakeFiles/rebuild_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGLBasic/HelloOrthographicProjection/cmake-build-debug/glframework/CMakeFiles/glframework.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGLBasic/HelloOrthographicProjection/cmake-build-debug/glframework/CMakeFiles/edit_cache.dir
+/Users/fengxuegt/GitHubCode/LwLearnOpenGL/LwLearnOpenGLBasic/HelloOrthographicProjection/cmake-build-debug/glframework/CMakeFiles/rebuild_cache.dir

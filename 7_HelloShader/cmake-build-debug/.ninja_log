@@ -1,0 +1,10 @@
+# ninja log v6
+1	64	1730704439473683278	CMakeFiles/HelloShader.dir/src/glad.c.o	133bc8bafce0c029
+0	320	1730704439473125071	wrapper/CMakeFiles/wrapper.dir/check_error.cpp.o	b9e6c2aba4450724
+1	324	1730704439473328195	application/CMakeFiles/application.dir/application.cpp.o	de5a9912337adaaf
+1	327	1730704439473563236	CMakeFiles/HelloShader.dir/src/main.cpp.o	2d2ec35d9b3e632d
+1	349	1730704439473446403	glframework/CMakeFiles/glframework.dir/shader.cpp.o	f3dd887448391ac4
+324	351	1730704439796327249	application/libapplication.a	a7af9faa4d2f7ead
+322	351	1730704439795145294	wrapper/libwrapper.a	b9715fb8ab3777f8
+349	369	1730704439821713095	glframework/libglframework.a	a894973965a28059
+369	408	1730704439841440331	HelloShader	1cd995c6b91fe14f

@@ -1,0 +1,27 @@
+# ninja log v6
+7	417	1729504492436278448	application/CMakeFiles/application.dir/application.cpp.o	7fedd1f84fe6dd7e
+580	626	1729503205077769933	HelloGLM	f247817daa273e43
+479	500	1729504492909011137	glframework/libglframework.a	1ed11fc68b83709
+7	458	1729504492436575733	glframework/CMakeFiles/glframework.dir/Texture.cpp.o	700ab8ff36efc79a
+7	479	1729504492436420820	glframework/CMakeFiles/glframework.dir/shader.cpp.o	d8e882418775395b
+2	61	1730703937044519854	build.ninja	d78a559e9368d05b
+1	6	1729495618024447807	clean	ad90e366ad70d77b
+413	436	1729504492842874797	wrapper/libwrapper.a	b9715fb8ab3777f8
+497	542	1729503980274287606	HelloViewMatrix	3466b11f886a3c38
+417	438	1729504492846448587	application/libapplication.a	a7af9faa4d2f7ead
+6	413	1729504492435923499	wrapper/CMakeFiles/wrapper.dir/check_error.cpp.o	2e5fe145afd3a9b5
+7	88	1729504492436929558	CMakeFiles/HelloOrthographicProjection.dir/src/glad.c.o	c86b687f23542d17
+5	496	1729509865374544798	CMakeFiles/HelloOrthographicProjection.dir/src/main.cpp.o	cc525fc31e39d1e7
+496	537	1729509865865707780	HelloOrthographicProjection	25e83c15a33072ff
+6	99	1730703938479394251	CMakeFiles/HelloOrthographicProjection.dir/src/glad.c.o	dcfc2379810bf99
+5	449	1730703938478167171	wrapper/CMakeFiles/wrapper.dir/check_error.cpp.o	e458e14529222715
+5	453	1730703938478520045	application/CMakeFiles/application.dir/application.cpp.o	977e8e47db45ec53
+6	464	1730703938478796878	glframework/CMakeFiles/glframework.dir/Texture.cpp.o	d0108b1f7c1d1e1e
+450	474	1730703938922691384	wrapper/libwrapper.a	b9715fb8ab3777f8
+453	475	1730703938925889709	application/libapplication.a	a7af9faa4d2f7ead
+6	486	1730703938478665461	glframework/CMakeFiles/glframework.dir/shader.cpp.o	e1d5946fce65599f
+486	510	1730703938959448781	glframework/libglframework.a	1ed11fc68b83709
+6	590	1730703938478942627	CMakeFiles/HelloOrthographicProjection.dir/src/main.cpp.o	69948d2b1eaa6d7c
+590	636	1730703939063061200	HelloOrthographicProjection	961835d581c05aba
+7	587	1730703988957451730	CMakeFiles/HelloOrthographicProjection.dir/src/main.cpp.o	69948d2b1eaa6d7c
+587	633	1730703989537151190	HelloOrthographicProjection	961835d581c05aba

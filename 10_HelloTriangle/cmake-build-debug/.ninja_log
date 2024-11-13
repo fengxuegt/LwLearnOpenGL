@@ -1,0 +1,8 @@
+# ninja log v6
+1	93	1730961917038298367	CMakeFiles/HelloTriangle.dir/src/glad.c.o	7657cfcce1c4842c
+0	392	1730961917037471949	wrapper/CMakeFiles/wrapper.dir/check_error.cpp.o	b8e86143b662350b
+1	404	1730961917037874700	CMakeFiles/HelloTriangle.dir/src/main.cpp.o	714f6771c2d8de0e
+1	415	1730961917037741158	application/CMakeFiles/application.dir/application.cpp.o	950abdecab58c8a1
+393	418	1730961917430280978	wrapper/libwrapper.a	b9715fb8ab3777f8
+415	436	1730961917451932273	application/libapplication.a	a7af9faa4d2f7ead
+436	471	1730961917473074276	HelloTriangle	669a3af3becd7bc2
